@@ -1,0 +1,12 @@
+Installation procedure:
+
+ 1. Mount ParallelsDesktop-18.0.3-53079.dmg image
+ 2. Install Parallels Desktop.
+
+ Treatment procedure:
+
+ 1. Completely close the program after installation.
+ 2. (Optional) Go to MacOS settings, Privacy and security, allow the terminal full access to the file system.
+ 3. Open the Crack folder in the terminal.
+ 4. Enter the following command: chmod +x ./install.sh && sudo ./install.sh
+ 5. Profit!
